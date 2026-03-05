@@ -1,4 +1,4 @@
-# 3D Object Reconstruction – Fundamental Matrix Estimation from Two Views
+# Fundamental Matrix Estimation from Two Views
 
 This repository contains a Python implementation of **Fundamental Matrix estimation** for 3D objects, as part of a 3D reconstruction course. The project demonstrates the projection of 3D points from an OBJ file into two camera views and estimates the fundamental matrix between these views using 2D correspondences.
 
@@ -57,13 +57,10 @@ python code/main.py
 ```
 The program will:
 
-* Load and normalize the 3D points.
-
-* Project them into two different camera views.
-
-* Select random 2D correspondences.
-
-* Estimate and print the Fundamental Matrix.
+*Load and normalize the 3D points.
+*Project them into two different camera views.
+*Select random 2D correspondences.
+*Estimate and print the Fundamental Matrix.
 
 ---
 # Project Structure
