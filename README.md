@@ -17,7 +17,7 @@ Clone the repository:
 
 ```
 git clone [https://github.com/Baya-Mezghani/3D-Fundamental-Matrix.git]
-cd pinhole-camera-projection
+cd 3D-Fundamental-Matrix
 ```
 
 ---
