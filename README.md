@@ -57,10 +57,10 @@ python code/main.py
 ```
 The program will:
 
-*Load and normalize the 3D points.
-*Project them into two different camera views.
-*Select random 2D correspondences.
-*Estimate and print the Fundamental Matrix.
+* Load and normalize the 3D points.
+* Project them into two different camera views.
+* Select random 2D correspondences.
+* Estimate and print the Fundamental Matrix.
 
 ---
 # Project Structure
